@@ -1,5 +1,10 @@
 <h1><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919384/noticon/gr2nxbn8xoqdoria9mqh.png" width="28px">&nbsp;&nbsp;프로젝트 관리 서비스</h1>
 
+> README.md 개인화를 위해 포크 후, 수정했습니다.  
+팀 Repository는 [이곳](https://github.com/Golden-Age-Center/trello-clone-app)을 클릭하면 이동합니다.
+
+<br>
+
 ## 0. 목차
 
 1. [팀원 소개](#1-팀원-소개)
